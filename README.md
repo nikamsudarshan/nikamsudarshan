@@ -13,7 +13,7 @@ I am a systems engineer specializing in bridging the gap between digital data an
 ### 🚀 Highlighted Systems & Builds
 * ⚙️ **[Linecraft CNC Automation Engine](https://github.com/nikamsudarshan/Linecraft-CNC-Automation-Engine)**: Full-stack Python/Flask hardware orchestration and variable data injection for physical CNC plotters.
 * 🤖 **[Autonomous Hexapod Platform](https://github.com/nikamsudarshan/Hexapod-Build-and-Calibration)**: C++ state-machine kinematics and power distribution for an 18-servo robotic platform.
-* 🧠 **[RAG Document Engine](https://github.com/nikamsudarshan/RAG-PDF-Chat-App)**: Local AI document parsing and retrieval using LangChain and FAISS vector databases.
+* 🧠 **[RAG Document Engine]([https://github.com/nikamsudarshan/rag-pdf-chat.git)**: Local AI document parsing and retrieval using LangChain and FAISS vector databases.
 * 🔦 **[Laser Optical Transceiver](https://github.com/nikamsudarshan/Laser-Optical-Transceiver)**: ASCII-to-Binary signal processing and decoding over physical laser optics.
 
 📫 **Reach me at:** nikamsudarshan24@gmail.com | [LinkedIn](https://www.linkedin.com/in/sudarshan-nikam)
